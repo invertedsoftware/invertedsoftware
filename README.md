@@ -25,11 +25,11 @@ Now I'm focused on what I do best — building AI-powered platforms in .NET and 
 
 ### What I'm Building
 
-🔮 **[76Psychics.com](https://76psychics.com)** — High-traffic pay-per-message psychic network powered by .NET, Redis, Gemini, and MAUI
+🔮 **[76Psychics.com](https://www.76psychics.com)** — High-traffic pay-per-message psychic network powered by .NET, Redis, Gemini, and MAUI
 
-🛒 **[ShopSnap](https://shopsnap.com)** — PCI & ISO 27001 compliant ecommerce platform with Gemini integration and RAG-powered search
+🛒 **[ShopSnap](https://www.shopsnap.io)** — PCI & ISO 27001 compliant ecommerce platform with Gemini integration and RAG-powered search
 
-📝 **[BlogCloud.io](https://blogcloud.io)** — AI-first CMS & ecommerce engine with 450+ enterprise installations, built on .NET 10, Azure AI Foundry, and Semantic Kernel
+📝 **[BlogCloud.io](https://www.blogcloud.io)** — AI-first CMS & ecommerce engine with 450+ enterprise installations, built on .NET 10, Azure AI Foundry, and Semantic Kernel
 
 🔍 **AI-Powered Image Search** — Semantic image search using C#, Ollama embeddings, Gemini vision, and SQL Server 2025 vector storage
 
