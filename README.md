@@ -58,7 +58,7 @@ Mail & Queues   RabbitMQ, SignalR, WebRTC
 - [Building an AI-Powered Image Search Engine with C#, Ollama, Gemini, and SQL Server 2025](https://github.com/invertedsoftware)
 - [How I Built an AI Sales Recovery Agent That Emails My Team Every Morning](https://github.com/invertedsoftware)
 - [3 Steps to Turning Your API into an MCP](https://github.com/invertedsoftware)
-- [How to Secure Your Organization’s MCP(https://www.linkedin.com/pulse/how-secure-your-organizations-mcp-gal-ratner-nplac/)]
+- [How to Secure Your Organization’s MCP](https://www.linkedin.com/pulse/how-secure-your-organizations-mcp-gal-ratner-nplac/)
 
 ### Let's Connect
 
