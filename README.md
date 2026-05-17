@@ -39,7 +39,7 @@ Now I'm focused on what I do best — building AI-powered platforms in .NET and 
 Languages       C#, TypeScript, JavaScript, SQL, Java
 Frameworks      .NET 10, ASP.NET Core, MVC, MAUI, WPF, Blazor, Bootstrap
 AI/ML           Azure AI Foundry, Semantic Kernel, Ollama, Gemini, OpenAI, RAG, ML.NET
-Data            SQL Server 2025, Redis, MongoDB, ElasticSearch
+Data            SQL Server 2025, Redis, MongoDB, ElasticSearch, DynamoDB
 Cloud           AWS, Azure, Docker
 Mail & Queues   RabbitMQ, SignalR, WebRTC
 ```
